@@ -1,0 +1,6 @@
+{
+  "type": "sqlite",
+  "database": "kanban_db.sqlite",
+  "entities": ["src/entity/**/*.ts"],
+  "synchronize": true
+}
